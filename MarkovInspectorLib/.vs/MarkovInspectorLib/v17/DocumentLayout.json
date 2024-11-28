@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\MarkovInspectorLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D29A6BC-A8FA-4855-91A0-CAB009B28DA3}|MarkovInspectorLib\\MarkovInspectorLib.csproj|c:\\users\\\u0433\u043B\u0435\u0431\\source\\repos\\markovinspectorlib\\markovinspectorlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D29A6BC-A8FA-4855-91A0-CAB009B28DA3}|MarkovInspectorLib\\MarkovInspectorLib.csproj|solutionrelative:markovinspectorlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\MarkovInspectorLib\\MarkovInspectorLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MarkovInspectorLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0413\u043B\u0435\u0431\\source\\repos\\MarkovInspectorLib\\MarkovInspectorLib\\Class1.cs",
+              "RelativeToolTip": "MarkovInspectorLib\\Class1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA5wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:52:09.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

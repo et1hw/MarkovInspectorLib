@@ -1,0 +1,6 @@
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\bin\Debug\MarkovInspectorLib.dll
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\bin\Debug\MarkovInspectorLib.pdb
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\obj\Debug\MarkovInspectorLib.csproj.AssemblyReference.cache
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\obj\Debug\MarkovInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\obj\Debug\MarkovInspectorLib.dll
+C:\Users\Глеб\source\repos\MarkovInspectorLib\MarkovInspectorLib\obj\Debug\MarkovInspectorLib.pdb
